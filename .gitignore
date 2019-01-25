@@ -1,0 +1,5 @@
+bin
+obj
+*.csproj.user
+webjob-publish*
+PublishProfiles
