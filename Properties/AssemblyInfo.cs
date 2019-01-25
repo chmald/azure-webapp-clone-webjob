@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WPClone")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Clone Azure Web App via WebJob")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("WPClone")]
